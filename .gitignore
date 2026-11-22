@@ -1,0 +1,15 @@
+# Dependencies & Build Outputs
+node_modules/
+dist/
+
+# Netlify Local State
+.netlify/
+
+# Environment Files
+.env
+.env.*
+
+# OS & Logs
+.DS_Store
+*.log
+npm-debug.log*
